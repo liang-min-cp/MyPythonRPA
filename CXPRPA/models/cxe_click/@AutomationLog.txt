@@ -1,0 +1,27 @@
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+2022-07-29 16:08:47.226 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+2022-07-29 16:28:27.543 SingleClickModel.py[151] <module> -> 

@@ -1,0 +1,27 @@
+2022-07-07 09:01:17.694 CxpDeliverDown.py[36] Run -> Find Control Timeout(10s): {Name: '确定', ControlType: ButtonControl}
+2022-07-07 14:00:11.078 CxpDeliverDown.py[36] Run -> Find Control Timeout(10s): {Name: '确定', ControlType: ButtonControl}
+2022-07-08 08:54:15.784 CxpDeliverDown.py[24] Run -> Find Control Timeout(10s): {Name: '传送全部', ControlType: ButtonControl}
+2022-07-21 15:48:34.710 CxpStart.py[45] Run -> Find Control Timeout(10s): {AutomationId: '65535', ControlType: TextControl}
+2022-07-21 15:55:34.080 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: '确定', ClassName: 'Button', ControlType: ButtonControl}
+2022-07-29 13:30:07.370 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:30:18.573 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:30:29.775 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:33:47.254 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:33:58.618 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:34:09.967 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:34:21.443 SingleClickModel.py[55] Run -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+
+[WinError -2147221008] 尚未调用 CoInitialize。
+Can not load UIAutomationCore.dll.
+1, You may need to install Windows Update KB971513 if your OS is Windows XP, see https://github.com/yinkaisheng/WindowsUpdateKB971513ForIUIAutomation
+2, you need to use an UIAutomationInitializerInThread object if use uiautomation in a thread, see demos/uiautomation_in_thread.py
+2022-07-29 13:40:13.233 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:40:23.734 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:40:34.815 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:40:45.206 pydevd_resolver.py[178] _getPyDictionary -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 13:40:55.619 pydevd_resolver.py[178] _getPyDictionary -> 2022-07-29 14:15:09.038 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 14:15:12.745 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 14:15:38.465 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 14:17:01.252 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {Name: 'CX-EtherCAT', ControlType: WindowControl}
+2022-07-29 14:17:04.774 pydevd_xml.py[293] _get_default_var_string_representation -> 2022-07-29 14:22:48.712 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {ClassName: 'Window', ControlType: WindowControl}
+2022-07-29 14:22:56.748 pydevd_xml.py[293] _get_default_var_string_representation -> Find Control Timeout(10s): {ClassName: 'Window', ControlType: WindowControl}

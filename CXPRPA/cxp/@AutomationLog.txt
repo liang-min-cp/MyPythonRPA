@@ -1,0 +1,8 @@
+2022-07-04 12:37:33.430 CxpStart.py[26] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 12:41:26.453 CxpStart.py[25] Run -> Find Control Timeout(10s): {Name: 'SECSplashWnd', ControlType: WindowControl}
+2022-07-04 12:53:43.301 CxpStart.py[25] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 13:04:47.597 CxpStart.py[25] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 13:06:11.639 CxpStart.py[25] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 13:07:27.807 CxpStart.py[25] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 13:10:56.651 CxpStart.py[26] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
+2022-07-04 13:13:58.927 CxpStart.py[26] Run -> Find Control Timeout(10s): {ClassName: '#32770', ControlType: WindowControl}
